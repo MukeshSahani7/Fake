@@ -1,0 +1,33 @@
+Markdown basics explained.
+
+User
+
+-What is markdown language? - What is it used for?
+
+- How to use markdown to write documentation? -Markdown cheatsheet - some commonly used 
+
+markdown tags
+
+ChatGPT
+
+Markdown is a lightweight markup language used for formatting plain text documents. It was created by John Gruber in 2004 and has become a popular choice for writing documentation, README files, and online content.
+
+Markdown allows you to add formatting elements to your text using simple syntax. For example, you can add headings, bold and italic text, lists, links, images, and code blocks to your document using easy-to-remember symbols. Markdown files can be easily converted into HTML or other formats, making them highly portable and adaptable to different platforms.
+
+To use markdown to write documentation, you can simply open a text editor and start writing your content using markdown syntax. You can then save the file with a .md extension, which indicates that it's a markdown file. There are also many tools and platforms available that support markdown, such as GitHub, GitLab, and Stack Overflow.
+
+Here's a quick cheatsheet of some commonly used markdown tags:
+
+Headings: use # symbol (one to six times) before text to create different levels of headings
+
+Bold: use ** or __ before and after text
+
+Italic: use * or _ before and after text
+
+Lists: use - or * for unordered lists, and 1. for ordered lists
+
+Links: use text to create a hyperlink
+
+Images: use ![alt text](image link) to add an image
+
+Code blocks: use ``` before and after text to create a code block, or use ` to highlight inline code
